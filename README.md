@@ -3,6 +3,10 @@
 ## 🛠 Skills
 ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=html,css,sass,tailwind,js,wordpress,git,github,)
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nesoliv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/nesuady-olivero-742293236/" target="_blank">
